@@ -1,0 +1,32 @@
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.deps.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.runtimeconfig.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.runtimeconfig.dev.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.pdb
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.csprojAssemblyReference.cache
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.RazorAssemblyInfo.cache
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.RazorAssemblyInfo.cs
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.RazorTargetAssemblyInfo.cache
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.pdb
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.deps.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.runtimeconfig.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.runtimeconfig.dev.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\bin\Debug\netcoreapp2.2\TestTaskPerson.Api.pdb
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.csprojAssemblyReference.cache
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.RazorAssemblyInfo.cache
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.RazorAssemblyInfo.cs
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.RazorTargetAssemblyInfo.cache
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskPerson.Api\obj\Debug\netcoreapp2.2\TestTaskPerson.Api.pdb

@@ -1,0 +1,48 @@
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir3\Dir4\Dir5\file1.cs
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir3\Dir4\Dir5\file2.cs
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir3\Dir4\Dir5\file3.cs
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir2\file1.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir2\file2.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.deps.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.runtimeconfig.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.runtimeconfig.dev.json
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.pdb
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.pdb
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.csprojAssemblyReference.cache
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.csproj.CopyComplete
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.dll
+C:\Users\yuriy\Desktop\Glusch\TestTask-20190928T200824Z-001\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.pdb
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir3\Dir4\Dir5\file1.cs
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir3\Dir4\Dir5\file2.cs
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir3\Dir4\Dir5\file3.cs
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir2\file1.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestFiles\Dir1\Dir2\file2.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.deps.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.runtimeconfig.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.runtimeconfig.dev.json
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.pdb
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\bin\Debug\netcoreapp2.2\TestTaskDirectory.Api.pdb
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.csprojAssemblyReference.cache
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.csproj.CopyComplete
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.dll
+C:\Users\yuriy\Desktop\Новая папка (4)\TestTask\TestTaskDirectory.Api.Test\obj\Debug\netcoreapp2.2\TestTaskDirectory.Api.Test.pdb
